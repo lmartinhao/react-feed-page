@@ -12,8 +12,8 @@ export function Avatar({hasBorder = true, src, alt}: AvatarProps) {
     <div>
       <img
         className={hasBorder ? styles.avatarWithBorder : styles.avatar}
-        src={src} alt='Imagem de perfil do usuário'/>
-        alt={alt}
+        src={src}
+        alt='Imagem de perfil do usuário'/>
     </div>
   );
 }
