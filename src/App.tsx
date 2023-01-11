@@ -19,7 +19,7 @@ const posts = [
     },
     content: [
       { type: 'paragraph', content: 'Oláa, pessoal! 👋' },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifolio. É um projeto que fiz no primeiro módulo de aprendizado de React, na plataforma da Rocketseat. O nome do projeto é <em>React Burger</em> 🚀' },
+      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifolio. É um projeto que fiz no primeiro módulo de aprendizado de React, na plataforma da Rocketseat. O nome do projeto é React Burger 🚀' },
       { type: 'link', content: '👉 lolamartinhao.vercel.app/projetos' },
     ],
     publishedAt: new Date('2023-01-07 20:00:00')
